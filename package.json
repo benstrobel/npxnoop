@@ -1,6 +1,6 @@
 {
   "name": "npxnoop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Executes nothing. Intended for usage with npx",
   "bin": "index.js",
   "repository": {
