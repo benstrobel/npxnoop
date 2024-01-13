@@ -1,0 +1,16 @@
+{
+  "name": "npxnoop",
+  "version": "1.0.0",
+  "description": "Executes nothing. Intended for usage with npx",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benstrobel/npxnoop.git"
+  },
+  "author": "Ben Strobel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benstrobel/npxnoop/issues"
+  },
+  "homepage": "https://github.com/benstrobel/npxnoop#readme"
+}
